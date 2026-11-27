@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NicolasPaiao2/Plutonium-T6-Mod-Pack-Manager/images-project/Code_Generated_Image.png" alt="Plutonium T6 Mod & Pack Manager Icon" width="110" />
+</p>
+
 # Plutonium T6 // Mod & Pack Manager
 
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
+
+![Interface do Plutonium T6 Mod & Pack Manager](https://raw.githubusercontent.com/NicolasPaiao2/Plutonium-T6-Mod-Pack-Manager/images-project/Capturar.PNG)
 
 ---
 
