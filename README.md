@@ -47,4 +47,4 @@ Profile-based automated mod manager and installer for **Call of Duty: Black Ops 
 ---
 
 ## Author / Autor
-**NicolasPaiao** — [GitHub](https://github.com/NicolasPaiao/Plutonium-T6-Mod-Pack-Manager)
+**NicolasPaiao2** — [GitHub](https://github.com/NicolasPaiao2)
